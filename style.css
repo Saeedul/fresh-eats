@@ -1,10 +1,28 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
-h1 {
+section {
+    display: flex;
+}
+
+.half-width img {
+    width: 95%;
+}
+
+.half-width h1 {
     font-size: 50px;
 }
+
+.half-width {
+    width: 50%;
+    margin-left: 5%;
+    padding-left: 2%;
+    font-weight: bold;
+    font-size: 20px;
+    color: #575757;
+}
+
 
 h1 span {
     color: orange;
