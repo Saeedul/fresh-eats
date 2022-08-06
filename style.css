@@ -12,6 +12,7 @@ section {
 
 .half-width h1 {
     font-size: 50px;
+    line-height: 0.5;
 }
 
 .half-width {
@@ -21,6 +22,10 @@ section {
     font-weight: bold;
     font-size: 20px;
     color: #575757;
+}
+
+.first-texts {
+    padding-top: 70px;
 }
 
 
