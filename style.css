@@ -43,6 +43,12 @@ h1 span {
     font-size: medium;
 }
 
+
+.middle {
+    width: 100%;
+}
+
+
 .middle-items {
     position: absolute;
     top: 800px;
