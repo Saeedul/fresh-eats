@@ -42,3 +42,15 @@ h1 span {
     font-weight: 700;
     font-size: medium;
 }
+
+.middle-items {
+    position: absolute;
+    top: 800px;
+    right: 120px;
+    font-size: 20px;
+}
+
+.mid-h1 {
+    font-size: 40px;
+    color: #575757;
+}
