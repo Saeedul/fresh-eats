@@ -72,5 +72,8 @@ h1 span {
 }
 
 .mid-text {
+    margin-top: 50px;
     text-align: center;
+    line-height: 0.5;
+    margin-left: 500px;
 }
