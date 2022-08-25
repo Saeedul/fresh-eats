@@ -41,6 +41,8 @@ h1 span {
     color: white;
     font-weight: 700;
     font-size: medium;
+    position: absolute;
+    margin-top: 70px;
 }
 
 
