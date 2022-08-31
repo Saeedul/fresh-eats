@@ -79,19 +79,31 @@ h1 span {
     margin-top: 50px;
     text-align: center;
     line-height: 0.5;
-    margin-left: 480px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .flexible-container {
     display: flex;
     margin-bottom: 100px;
+    align-items: center;
+    justify-content: center;
 }
 
 .recipe-div {
+
     width: 30%;
+    margin-top: 20px;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     border-radius: 25px;
     box-shadow: 10px 10px 30px grey;
+}
+
+.recipe-div img {
+    width: 100%;
+
 }
