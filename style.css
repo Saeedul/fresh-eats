@@ -107,3 +107,20 @@ h1 span {
     width: 100%;
 
 }
+
+.showoff {
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 30px grey;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 100px;
+    align-items: center;
+    justify-content: center;
+}
