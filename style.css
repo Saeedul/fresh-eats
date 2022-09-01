@@ -138,3 +138,8 @@ h1 span {
     text-align: center;
     padding-left: 230px;
 }
+
+footer {
+    background-color: rgb(249, 234, 215);
+    text-align: center;
+}
