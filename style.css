@@ -117,10 +117,24 @@ h1 span {
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 25px;
-    box-shadow: 10px 10px 30px grey;
+    box-shadow: 10px 10px 20px grey;
     display: flex;
     flex-direction: row;
     margin-bottom: 100px;
     align-items: center;
-    justify-content: center;
+}
+
+.show1 {
+    text-align: center;
+    padding-left: 70px;
+}
+
+.show2 {
+    text-align: center;
+    padding-left: 230px;
+}
+
+.show3 {
+    text-align: center;
+    padding-left: 230px;
 }
